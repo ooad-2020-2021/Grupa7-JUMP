@@ -13,7 +13,7 @@ zemalja svijeta(koje objave dnevni podatak o broju zaraženih).
 
 # Detaljna specifikacija 
 
-**Online pregled(Odabir simptoma), opis simptoma**
+**__Online pregled(Odabir simptoma), opis simptoma__**
 
 Kroz online pregled korisniku centra biti će ponuđeno da odabere različite simptome koje prouzrokuje sam virus, u dodatnoj sekciji moći će dodatno opisati svoje stanje te uputiti hitnu poruku doktoru
 
