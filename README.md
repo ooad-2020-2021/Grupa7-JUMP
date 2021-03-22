@@ -58,7 +58,7 @@ Svaki adminisitrator centra voditi će brigu o dnevnim brojkama i stalno će bit
   - Administrator  
   
 ---
-Budući da je tema aktuelna i podložna promjenama , moguće je uveođenje novih ili pojedine izmjene postojećih opcija centra
+Budući da je tema aktuelna i podložna promjenama , moguće je uveođenje novih ili pojedine izmjene postojećih opcija centra.
 
 ## Tim
 © Pozderac Admir, Hasanović Ahmedin, Dervišević Vedad
