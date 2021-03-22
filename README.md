@@ -1,8 +1,5 @@
 # Tema: Covid Centar
-# Tim
-- Pozderac Admir
-- Hasanović Ahmedin
-- Dervišević Vedad
+
 
 # Opis teme
 Čitav svijet zahvatila je već dobro poznata pandemija Covida-19, te je prebacila čitav život(škole, posao, plaćanje ...) na online režim rada.
@@ -13,7 +10,7 @@ zemalja svijeta(koje objave dnevni podatak o broju zaraženih).
 
 # Detaljna specifikacija 
 
-**__Online pregled(Odabir simptoma), opis simptoma__**
+**Online pregled(Odabir simptoma), opis simptoma**
 
 Kroz online pregled korisniku centra biti će ponuđeno da odabere različite simptome koje prouzrokuje sam virus, u dodatnoj sekciji moći će dodatno opisati svoje stanje te uputiti hitnu poruku doktoru
 
@@ -37,35 +34,31 @@ Svakom korisniku biti će dostupan pregled svih bitnih brojeva, kao što su: bro
 
 Uz popunjen određeni formular, osoba se može prijaviti za vakcinaciju, te ukoliko zadovoljava uvjete(broj godina, rizična grupa, itd...), dobija svoj termin, mjesto i vrijeme vakcinacije, kao i poruke napomene kada dođe vrijeme istoj.
 
+**Pregled simptoma pacijenta**
 
-# Procesi
-- Gost(Mogući pacijent): 
-  - Odabir simptoma, opis trenutnog stanja
-  - Razgovor za dežurnim doktorom
-  - Naručivanje za testiranje
-  - Primanje rezultata u inbox
-  - Uvid u sve ključne brojeve(Broj zaraženih, izliječenih, hospitalizovanih)
-  - Uvid u načine liječenja
-  - Uvid u sve ključne brojeve vezane za imunizaciju stanovništva(Broj vakcina, broj vakcinisanih broj naručenih za vakcinaciju)
-  - Uvid u svoj zdravstveni karton
-  - Naručivanje za vakcinaciju
-  - Primanje obavijesti i napomena o terminu testiranja i vakcinisanja
-- Doktor: 
-  - Pregled simptoma pacijenata
-  - Davanje svog mišljenja i analiza pacijenta, preporuka za testiranje
-  - Izdavanje uputnice za testiranje
-  - Izdavanje uputnice o hospitaliziranju pacijenta
-  - Pregled zahtjeva za vakcinaciju 
-  - Stalni uvid u zdravstvene kartone svih pacijenata
-- Admin:
-  - Dnevno ažuriranje brojeva zaraženih kako u državi tako i u svijetu
-  - Dnevno ažuriranje broja vakcinisanih
-  - Pregled svih dostupnih ljekara
-  - Pregled svih prijavljenih pacijenata
-- Akteri:
+Svaki doktor ima uvid u sve predane zahtjeve za davanje mišljenja, broj simptoma, te broj koliko dana ih osoba osjeća će biti ključan u odluci za testiranje.
+Doktor će kroz par klikova i odobrenja odobriti i poslati povratnu poruku osobi koja ja poslala nalaz. Time će i izdati uputnicu za testiranje
+
+**Doktorova dostupnost**
+
+Doktori će biti dostupni stalno i imati će spisak svih pozitivnih osoba koje u bilo kojem trenutku mogu napisati poruku i opisati svoje stanje, takva poruka stiže do doktora koji opet, čitajući i shvatajući stanje pacijenta, kroz par klikova može izdati uputnicu da pacijent: Slika pluća, izvadi krv ili bude hitno smješten u bolnicu. Doktor će moći klikom na opciju pozovi Hitnu Pomoć, odmah poslati ekipu do pacijenta. Klikom na tu opciju, hitnoj pomoći bi se proslijedile bitne informacije kao što su adresa i broj telefona pacijenta.
+
+**Vrijeme za pauzu**
+
+Klikom na opciju - "Odlazak na pauzu" doktoru se automatski počinje brojati vrijeme pauze. Dnevno ima pola sata, ukoliko se doktor ne bi nakon pola sata prijavio da se vratio na dežurstvo, administratoru stranice bi dolazilo upozorenje o nekorektnosti doktora.
+
+**Administratorove uloge**
+
+Svaki adminisitrator centra voditi će brigu o dnevnim brojkama i stalno će biti dostupni jer će i pacijenti, a i doktori uvijek moći poslati poruku administratorima. Pored dostupnih. U svakom trenutku administrator može vidjeti prijavljene ljekare, pratiti njihovo radno vrijeme i vrijeme pauze. Ukoliko doktori kasne ili pacijenti šalju prijeteće ili uvrijedljive poruke, administratori su ti koji mogu poslati automatsko upozorenje bilo kome da će biti odstranjen sa same mreže. 
+
+# Akteri 
   - Potencijalni pacijent(Posjetitelj Covid centra)
   - Pacijent
   - Doktor
   - Administrator  
   
- 
+---
+Budući da je tema aktuelna i podložna promjenama , moguće je uveođenje novih ili pojedine izmjene postojećih opcija centra
+
+## Tim
+© Pozderac Admir, Hasanović Ahmedin, Dervišević Vedad
