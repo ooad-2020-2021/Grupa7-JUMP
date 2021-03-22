@@ -11,6 +11,15 @@ Covid centar, povezan sa svim domovima zdravlja će da prati i broji broj zaraž
 broj vakcinisanih, te je moguće(ukoliko osoba ispunjava određene uvjete) naručiti se za vakcinaciju. U covid centru moguće je pratiti u globalnu sliku broja zaraženih iz svih 
 zemalja svijeta(koje objave dnevni podatak o broju zaraženih).
 
+# Detaljna specifikacija 
+
+**Online pregled(Odabir simptoma), opis simptoma**
+Kroz online pregled korisniku centra biti će ponuđeno da odabere različite simptome koje prouzrokuje sam virus, u dodatnoj sekciji moći će dodatno opisati svoje stanje te uputiti hitnu poruku doktoru
+**Online naručivanje za testiranje**
+Nakon samog pregleda i mišljenja doktora, ukoliko je doktor predložio testiranje, korisnik centra će jednostavnim klikom odabrati dan za testiranje, a od sistema će dobiti povratnu poruku koja će sadržati: Broj kabine, tačno vrijeme u kojem osoba treba biti u redu za testiranje(period će biti izračunat na osnovu prosječnog trajanja testiranje jedne osobe i do tada već naručenih osoba na testiranje u tom danu)). Također, ukoliko osoba ne može biti u tom periodu biti prisutna, moći će ručno odabrati tačno vrijeme i pridržavati se istoga.
+**Rezultati testiranja**
+Testiranoj osobi bi u roku od nekoliko sati trebala stići poruka koja sadržava nalaz testiranja, u nalazu će stajati nalaz, mišljenje i savjeti ljekara
+
 
 # Funkcionalnosti 
 - Online pregled(Odabir simptoma), opis simptoma, te na osnovu toga odluka o testiranju
