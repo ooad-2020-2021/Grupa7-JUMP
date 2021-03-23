@@ -20,11 +20,11 @@ Nakon samog pregleda i mišljenja doktora, ukoliko je doktor predložio testiran
 
 **Rezultati testiranja**
 
-Testiranoj osobi bi u roku od nekoliko sati trebala stići poruka koja sadržava nalaz testiranja, u nalazu će stajati nalaz, mišljenje i savjeti ljekara
+Testiranoj osobi bi u roku od nekoliko sati trebala stići poruka koja sadržava nalaz testiranja, u nalazu će stajati nalaz, mišljenje i savjeti ljekara. Svaki pacijent će moći odabrati opciju da isprinta svoj nalaz.
 
 **Online naručivanje za slikanje pluća i vađenje krvi**
 
-Ukoliko je testirana osoba loše, automatski dobija na uvid svoj zdravstveni bilten koji može ažurirati po potrebi(Opisati svoje stanje), te ukoliko se ono pogorša osoba se može prijaviti za slikanje pluća i vađenje krvi po istom protokolu kao i naručivanje za samo testiranje
+Ukoliko je testirana osoba loše, automatski dobija na uvid svoj zdravstveni bilten koji može ažurirati po potrebi(Opisati svoje stanje), te ukoliko se ono pogorša osoba se može prijaviti za slikanje pluća i vađenje krvi po istom protokolu kao i naručivanje za samo testiranje. Svaki pacijent će moći u bilo kojem trenutku isprintati svoj zdravstveni karton.
 
 **Uvid u sve bitne brojeve**
 
