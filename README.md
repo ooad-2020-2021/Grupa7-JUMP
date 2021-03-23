@@ -20,7 +20,7 @@ Nakon samog pregleda i mišljenja doktora, ukoliko je doktor predložio testiran
 
 **Rezultati testiranja**
 
-Testiranoj osobi bi u roku od nekoliko sati trebala stići poruka koja sadržava nalaz testiranja u kojem će stajati rezultati testiranja, mišljenje i savjeti ljekara. Svaki pacijent će moći odabrati opciju da isprinta svoj nalaz.
+Testiranoj osobi bi u roku od nekoliko sati trebala stići poruka koja sadržava nalaz testiranja u kojem će stajati rezultati testiranja, mišljenje i savjeti doktora. Svaki pacijent će moći odabrati opciju da isprinta svoj nalaz.
 
 **Online naručivanje za slikanje pluća i vađenje krvi**
 
