@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\source\\repos\\CovidCentar\\CovidCentar\\CovidCentar.csproj": {}
+    "C:\\Users\\User\\Documents\\CETVRTI SEMESTAR\\OOAD\\Projekat-pull\\Grupa7-JUMP\\CovidCentar\\CovidCentar\\CovidCentar.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\source\\repos\\CovidCentar\\CovidCentar\\CovidCentar.csproj": {
+    "C:\\Users\\User\\Documents\\CETVRTI SEMESTAR\\OOAD\\Projekat-pull\\Grupa7-JUMP\\CovidCentar\\CovidCentar\\CovidCentar.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\source\\repos\\CovidCentar\\CovidCentar\\CovidCentar.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Documents\\CETVRTI SEMESTAR\\OOAD\\Projekat-pull\\Grupa7-JUMP\\CovidCentar\\CovidCentar\\CovidCentar.csproj",
         "projectName": "CovidCentar",
-        "projectPath": "C:\\Users\\User\\source\\repos\\CovidCentar\\CovidCentar\\CovidCentar.csproj",
+        "projectPath": "C:\\Users\\User\\Documents\\CETVRTI SEMESTAR\\OOAD\\Projekat-pull\\Grupa7-JUMP\\CovidCentar\\CovidCentar\\CovidCentar.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\source\\repos\\CovidCentar\\CovidCentar\\obj\\",
+        "outputPath": "C:\\Users\\User\\Documents\\CETVRTI SEMESTAR\\OOAD\\Projekat-pull\\Grupa7-JUMP\\CovidCentar\\CovidCentar\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",

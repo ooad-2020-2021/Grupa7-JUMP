@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 using System.Text;
 
 namespace CovidCentar.Models
@@ -9,10 +10,16 @@ namespace CovidCentar.Models
     {
         
         [Required]
+        [NotMapped]
+        [Display(Name = "Vakcine:")]
         public List<Vakcinacija> vakcine { get; }
         [Required]
+        [NotMapped]
+        [Display(Name = "Simptomi:")]
         public List<Simptomatika> simptomi { get; }
         [Required]
+        [NotMapped]
+        [Display(Name = "Testovi:")]
         public List<RezultatTesta> testovi { get; }
         
         public Karton(List<Vakcinacija> vakcine, List<Simptomatika> simptomi, List<RezultatTesta> testovi)
