@@ -530,141 +530,6 @@
 									}
 								},
 								{
-									"_type": "UMLCombinedFragmentView",
-									"_id": "AAAAAAF5nudW3Kl0JdI=",
-									"_parent": {
-										"$ref": "AAAAAAF5ntk6TKhLvZA="
-									},
-									"model": {
-										"$ref": "AAAAAAF5nudW3KlyFP4="
-									},
-									"subViews": [
-										{
-											"_type": "LabelView",
-											"_id": "AAAAAAF5nudW3Kl1Izg=",
-											"_parent": {
-												"$ref": "AAAAAAF5nudW3Kl0JdI="
-											},
-											"font": "Arial;13;0",
-											"left": 40.72998046875,
-											"top": 285,
-											"width": 121.68798828125,
-											"height": 13,
-											"text": "Dodatne konsultacije"
-										},
-										{
-											"_type": "LabelView",
-											"_id": "AAAAAAF5nudW3Kl2IvU=",
-											"_parent": {
-												"$ref": "AAAAAAF5nudW3Kl0JdI="
-											},
-											"font": "Arial;13;1",
-											"left": 21,
-											"top": 285,
-											"width": 14.72998046875,
-											"height": 13,
-											"text": "alt"
-										},
-										{
-											"_type": "UMLInteractionOperandCompartmentView",
-											"_id": "AAAAAAF5nudW3Kl3iL8=",
-											"_parent": {
-												"$ref": "AAAAAAF5nudW3Kl0JdI="
-											},
-											"model": {
-												"$ref": "AAAAAAF5nudW3KlyFP4="
-											},
-											"subViews": [
-												{
-													"_type": "UMLInteractionOperandView",
-													"_id": "AAAAAAF5nudW6KmD7RU=",
-													"_parent": {
-														"$ref": "AAAAAAF5nudW3Kl3iL8="
-													},
-													"model": {
-														"$ref": "AAAAAAF5nudW3Klz1ys="
-													},
-													"subViews": [
-														{
-															"_type": "LabelView",
-															"_id": "AAAAAAF5nudW6amElx0=",
-															"_parent": {
-																"$ref": "AAAAAAF5nudW6KmD7RU="
-															},
-															"font": "Arial;13;0",
-															"left": 36,
-															"top": 318,
-															"width": 21.68359375,
-															"height": 13,
-															"text": "[da]"
-														}
-													],
-													"font": "Arial;13;0",
-													"left": 16,
-													"top": 303,
-													"width": 1025,
-													"height": 98,
-													"guardLabel": {
-														"$ref": "AAAAAAF5nudW6amElx0="
-													}
-												},
-												{
-													"_type": "UMLInteractionOperandView",
-													"_id": "AAAAAAF5nuli0anQFWc=",
-													"_parent": {
-														"$ref": "AAAAAAF5nudW3Kl3iL8="
-													},
-													"model": {
-														"$ref": "AAAAAAF5nuliy6nNj2M="
-													},
-													"subViews": [
-														{
-															"_type": "LabelView",
-															"_id": "AAAAAAF5nuli0anRXRg=",
-															"_parent": {
-																"$ref": "AAAAAAF5nuli0anQFWc="
-															},
-															"font": "Arial;13;0",
-															"left": 36,
-															"top": 416,
-															"width": 21.68359375,
-															"height": 13,
-															"text": "[ne]"
-														}
-													],
-													"font": "Arial;13;0",
-													"left": 16,
-													"top": 401,
-													"width": 1025,
-													"height": 71,
-													"guardLabel": {
-														"$ref": "AAAAAAF5nuli0anRXRg="
-													}
-												}
-											],
-											"font": "Arial;13;0",
-											"left": 16,
-											"top": 303,
-											"width": 1025,
-											"height": 169
-										}
-									],
-									"font": "Arial;13;0",
-									"left": 16,
-									"top": 280,
-									"width": 1025,
-									"height": 192,
-									"nameLabel": {
-										"$ref": "AAAAAAF5nudW3Kl1Izg="
-									},
-									"frameTypeLabel": {
-										"$ref": "AAAAAAF5nudW3Kl2IvU="
-									},
-									"operandCompartment": {
-										"$ref": "AAAAAAF5nudW3Kl3iL8="
-									}
-								},
-								{
 									"_type": "UMLSeqMessageView",
 									"_id": "AAAAAAF5nuhhL6mT5hg=",
 									"_parent": {
@@ -1242,6 +1107,107 @@
 									"activation": {
 										"$ref": "AAAAAAF5nu7OqqoutqI="
 									}
+								},
+								{
+									"_type": "UMLCombinedFragmentView",
+									"_id": "AAAAAAF5pYF2hFl6OzY=",
+									"_parent": {
+										"$ref": "AAAAAAF5ntk6TKhLvZA="
+									},
+									"model": {
+										"$ref": "AAAAAAF5pYF2hFl4r6Y="
+									},
+									"subViews": [
+										{
+											"_type": "LabelView",
+											"_id": "AAAAAAF5pYF2hFl7JjE=",
+											"_parent": {
+												"$ref": "AAAAAAF5pYF2hFl6OzY="
+											},
+											"font": "Arial;13;0",
+											"left": 45.07177734375,
+											"top": 301,
+											"width": 121.68798828125,
+											"height": 13,
+											"text": "Dodatne konsultacije"
+										},
+										{
+											"_type": "LabelView",
+											"_id": "AAAAAAF5pYF2hFl8Pqk=",
+											"_parent": {
+												"$ref": "AAAAAAF5pYF2hFl6OzY="
+											},
+											"font": "Arial;13;1",
+											"left": 21,
+											"top": 301,
+											"width": 19.07177734375,
+											"height": 13,
+											"text": "opt"
+										},
+										{
+											"_type": "UMLInteractionOperandCompartmentView",
+											"_id": "AAAAAAF5pYF2hFl9VYs=",
+											"_parent": {
+												"$ref": "AAAAAAF5pYF2hFl6OzY="
+											},
+											"model": {
+												"$ref": "AAAAAAF5pYF2hFl4r6Y="
+											},
+											"subViews": [
+												{
+													"_type": "UMLInteractionOperandView",
+													"_id": "AAAAAAF5pYF2k1mJRi4=",
+													"_parent": {
+														"$ref": "AAAAAAF5pYF2hFl9VYs="
+													},
+													"model": {
+														"$ref": "AAAAAAF5pYF2hFl5j1Y="
+													},
+													"subViews": [
+														{
+															"_type": "LabelView",
+															"_id": "AAAAAAF5pYF2k1mKXDw=",
+															"_parent": {
+																"$ref": "AAAAAAF5pYF2k1mJRi4="
+															},
+															"visible": false,
+															"font": "Arial;13;0",
+															"left": 36,
+															"top": 334,
+															"height": 13
+														}
+													],
+													"font": "Arial;13;0",
+													"left": 16,
+													"top": 319,
+													"width": 1025,
+													"height": 43,
+													"guardLabel": {
+														"$ref": "AAAAAAF5pYF2k1mKXDw="
+													}
+												}
+											],
+											"font": "Arial;13;0",
+											"left": 16,
+											"top": 319,
+											"width": 1025,
+											"height": 43
+										}
+									],
+									"font": "Arial;13;0",
+									"left": 16,
+									"top": 296,
+									"width": 1025,
+									"height": 153,
+									"nameLabel": {
+										"$ref": "AAAAAAF5pYF2hFl7JjE="
+									},
+									"frameTypeLabel": {
+										"$ref": "AAAAAAF5pYF2hFl8Pqk="
+									},
+									"operandCompartment": {
+										"$ref": "AAAAAAF5pYF2hFl9VYs="
+									}
 								}
 							]
 						}
@@ -1361,35 +1327,6 @@
 					"fragments": [
 						{
 							"_type": "UMLCombinedFragment",
-							"_id": "AAAAAAF5nudW3KlyFP4=",
-							"_parent": {
-								"$ref": "AAAAAAF5ntk6TKhKmjE="
-							},
-							"name": "Dodatne konsultacije",
-							"interactionOperator": "alt",
-							"operands": [
-								{
-									"_type": "UMLInteractionOperand",
-									"_id": "AAAAAAF5nudW3Klz1ys=",
-									"_parent": {
-										"$ref": "AAAAAAF5nudW3KlyFP4="
-									},
-									"name": "Operand1",
-									"guard": "da"
-								},
-								{
-									"_type": "UMLInteractionOperand",
-									"_id": "AAAAAAF5nuliy6nNj2M=",
-									"_parent": {
-										"$ref": "AAAAAAF5nudW3KlyFP4="
-									},
-									"name": "InteractionOperand1",
-									"guard": "ne"
-								}
-							]
-						},
-						{
-							"_type": "UMLCombinedFragment",
 							"_id": "AAAAAAF5nux/vqnkyzI=",
 							"_parent": {
 								"$ref": "AAAAAAF5ntk6TKhKmjE="
@@ -1416,6 +1353,25 @@
 									"guard": "ne"
 								}
 							]
+						},
+						{
+							"_type": "UMLCombinedFragment",
+							"_id": "AAAAAAF5pYF2hFl4r6Y=",
+							"_parent": {
+								"$ref": "AAAAAAF5ntk6TKhKmjE="
+							},
+							"name": "Dodatne konsultacije",
+							"interactionOperator": "opt",
+							"operands": [
+								{
+									"_type": "UMLInteractionOperand",
+									"_id": "AAAAAAF5pYF2hFl5j1Y=",
+									"_parent": {
+										"$ref": "AAAAAAF5pYF2hFl4r6Y="
+									},
+									"name": "Operand1"
+								}
+							]
 						}
 					]
 				}
@@ -1436,7 +1392,8 @@
 					"_parent": {
 						"$ref": "AAAAAAF5ntk6TKhJwIA="
 					},
-					"name": "Role2"
+					"name": "Role2",
+					"type": ""
 				}
 			]
 		}
